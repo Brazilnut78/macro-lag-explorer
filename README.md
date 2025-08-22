@@ -41,3 +41,11 @@ $env:FRED_API_KEY="your_key_here"
 
 # 4) Launch Jupyter and open the notebook
 jupyter notebook Policy_Macro_Econ_Project.ipynb
+
+```
+
+## 📝 License 
+MIT © Daniela Haskins — see [LICENSE](LICENSE).
+
+
+
